@@ -7,8 +7,6 @@ Conteudo:
 
 Ficha 01 - HTML: https://moodle.cee.uma.pt/2122/pluginfile.php/75559/mod_resource/content/1/ficha03-01.pdf
 
-Ficha 02 - CSS: https://moodle.cee.uma.pt/2122/pluginfile.php/75756/mod_resource/content/1/ficha03-02.pdf
-
 Ficha - Exercícios com CSS (Animações): https://moodle.cee.uma.pt/2122/pluginfile.php/76115/mod_resource/content/1/ficha15.pdf
 
 Ficha 03 - Layouts com CSS: https://moodle.cee.uma.pt/2122/pluginfile.php/76086/mod_resource/content/1/ficha03-03.pdf
